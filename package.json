@@ -20,9 +20,12 @@
   "homepage": "https://github.com/RayLuxembourg/ts-node-express-starter#readme",
   "dependencies": {
     "@types/body-parser": "^1.17.0",
+    "@types/cors": "^2.8.5",
     "@types/express": "^4.16.1",
     "@types/helmet": "0.0.43",
     "body-parser": "^1.19.0",
+    "concurrently": "^4.1.0",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "helmet": "^3.16.0",
     "typescript": "^3.4.5"
